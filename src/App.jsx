@@ -1,10 +1,11 @@
 import './App.css'
+import kaiLogo from './assets/kai-logo.svg'
 
 function App() {
   return (
     <div className="container">
       <div className="content">
-        <h1 className="logo">Kai Fit</h1>
+        <img src={kaiLogo} alt="Kai Logo" className="logo-image" />
         <div className="divider"></div>
         <h2 className="subtitle">Coming Soon</h2>
         <p className="description">

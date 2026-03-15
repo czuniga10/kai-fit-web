@@ -20,6 +20,9 @@ export const metadata = {
   icons: {
     icon: '/favicon.svg',
   },
+  verification: {
+    google: '07sWHqL8KUCtuvE4u3WQxII6sGi5Rm8-WTlAZFy02rQ',
+  },
 };
 
 export default function RootLayout({ children }) {

@@ -18,7 +18,7 @@ export const metadata = {
     description: 'Finally, a fitness coach that holds you accountable.',
   },
   icons: {
-    icon: '/favicon.svg',
+    icon: '/favicon.png',
   },
   verification: {
     google: '07sWHqL8KUCtuvE4u3WQxII6sGi5Rm8-WTlAZFy02rQ',

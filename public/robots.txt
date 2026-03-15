@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kai-fit.com/sitemap.xml
